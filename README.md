@@ -29,7 +29,7 @@ Download this repository using either git clone or by unpacking the zip into it'
 1. Open the file of interest in RStudio.
 2. Run the setup code at the beginning of the file.
 3. Read through the file to find code of interest.
-4. Select this block of code and click Run to see the output.
+4. Select this startup of code and click Run to see the output.
 
 ##Model Assumptions
 
